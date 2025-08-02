@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ff8c176f-0ab9-472f-8762-8926cede3b63}">
+		<property name="assetPath">
+			<value>music 3-Kontakt 7.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>115.2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{112902b1-8f02-4b36-bcf4-3550cd915f94}</destination>
+		</relationship>
+	</object>
+</objects>

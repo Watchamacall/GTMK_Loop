@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{adb1eceb-1c6d-44f9-b2cf-40815db43593}">
+		<property name="assetPath">
+			<value>music 2-Phase Plant.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>115.2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{112902b1-8f02-4b36-bcf4-3550cd915f94}</destination>
+		</relationship>
+	</object>
+</objects>
